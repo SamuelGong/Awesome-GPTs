@@ -675,6 +675,9 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Suggests emojis according given word or sentence to improve your creativity and content.
    - [Chat now](https://chatgpt.com/g/g-u4xQCrnWD-emoji-suggestion-assistant)
    - Submit by [@relliv](https://github.com/relliv)
+9. ZhihuAgent
+   - AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.
+   - Submit by [@SamuelGong](https://github.com/SamuelGong)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
